@@ -101,9 +101,13 @@ div.brand {
 }
 
 .btn-cn {
-    width: 50%;
+    width: auto;
     font-size: 14px;
-    margin-left: 20%;
+    
+}
+.fa-btn{
+    display: flex; 
+    justify-content: center;
 }
 
 .m-icon {
